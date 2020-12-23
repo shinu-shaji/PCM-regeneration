@@ -5,6 +5,6 @@ Output
 
 ![alt text](https://github.com/shinu-shaji/PCM-regeneration/blob/main/output.png)
 
-error
+Error
 
 ![alt text](https://github.com/shinu-shaji/PCM-regeneration/blob/main/error.png)
